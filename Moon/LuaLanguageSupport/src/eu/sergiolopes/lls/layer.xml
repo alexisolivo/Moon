@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="x-lua">
+                <attr name="SystemFileSystem.localizingBundle" stringvalue="eu.sergioloes.lls.Bundle"/>
+                <folder name="FontsColors">
+                    <folder name="NetBeans">
+                        <folder name="Defaults">
+                            <file name="FontAndColors.xml" url="resources/FontAndColors.xml">
+                                <attr name="SystemFileSystem.localizingBundle" stringvalue="eu.sergiolopes.lls.Bundle"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+
+    <folder name="OptionsDialog">
+        <folder name="PreviewExamples">
+            <folder name="text">
+                <file name="x-lua" url="resources/LuaSourceTemplate.lua"/>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

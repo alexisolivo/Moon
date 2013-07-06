@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: eu.sergiolopes.lls
+OpenIDE-Module-Layer: eu/sergiolopes/lls/layer.xml
+OpenIDE-Module-Localizing-Bundle: eu/sergiolopes/lls/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

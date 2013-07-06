@@ -1,0 +1,6 @@
+.DS_Store
+._.DS_Store
+/Moon/build/*
+Moon/nbproject/private/*
+Moon/LuaLanguageSupport/build/*
+Moon/LuaLanguageSupport/nbproject/private/*
