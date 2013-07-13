@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: eu.sergiolopes.moon.coronasdk
+OpenIDE-Module-Localizing-Bundle: eu/sergiolopes/moon/coronasdk/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
